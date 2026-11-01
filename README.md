@@ -68,26 +68,27 @@ To Assemble the 3D parts and the electronics together:
 1) Grab the Lightning bolt Part and The puddle part and attach it together with either Super Glue or Hot Glue. <img width="667" height="404" alt="Screenshot 2026-11-01 at 23 56 23" src="https://github.com/user-attachments/assets/ae60d301-64e7-420c-a711-8b1db8fa72b4" /> <img width="501" height="772" alt="Screenshot 2026-11-01 at 23 56 47" src="https://github.com/user-attachments/assets/39f7ae82-2282-43e5-8df0-c481dc5d726f" />
 
 
-2) There are 2 clouds one with a small rectangle and one with a big rectangle: Place the LCD Screen in the Big rectangle and the ESP32 in the Small rectangle <img width="831" height="1002" alt="image" src="https://github.com/user-attachments/assets/87c484df-f919-43b2-b40e-2530023b7f97" /> <img width="608" height="926" alt="Screenshot 2026-11-02 at 00 01 31" src="https://github.com/user-attachments/assets/b0854751-e702-484f-8771-0fb7d8961afb" />
+2) There are 2 clouds one with a small rectangle and one with a big rectangle: Place the LCD Screen in the Big rectangle and the ESP32 in the Small rectangle
+<img width="831" height="1002" alt="image" src="https://github.com/user-attachments/assets/87c484df-f919-43b2-b40e-2530023b7f97" /> <img width="608" height="926" alt="Screenshot 2026-11-02 at 00 01 31" src="https://github.com/user-attachments/assets/b0854751-e702-484f-8771-0fb7d8961afb" />
 
 
 
-3) Using the Electrical tape, tape the wire together in a bunch <img width="777" height="963" alt="Screenshot 2026-11-02 at 00 02 12" src="https://github.com/user-attachments/assets/80e8e136-2226-46f6-ab38-6b7ab8c84129" />
+4) Using the Electrical tape, tape the wire together in a bunch <img width="777" height="963" alt="Screenshot 2026-11-02 at 00 02 12" src="https://github.com/user-attachments/assets/80e8e136-2226-46f6-ab38-6b7ab8c84129" />
 
 
-4) Now Hot glue the ESP32 in the cloud with the small rectangle, making sure the ESP32's charger port is aligned with the charger port opening of the cloud (dont do as messy as i did) <img width="931" height="481" alt="Screenshot 2026-11-02 at 00 08 12" src="https://github.com/user-attachments/assets/3be34980-6813-4dfa-9e84-2942dea0e201" /> <img width="280" height="578" alt="Screenshot 2026-11-02 at 00 07 36" src="https://github.com/user-attachments/assets/71982d7c-a2e5-4f4d-befd-8e8f33d09f8e" />
+5) Now Hot glue the ESP32 in the cloud with the small rectangle, making sure the ESP32's charger port is aligned with the charger port opening of the cloud (dont do as messy as i did) <img width="931" height="481" alt="Screenshot 2026-11-02 at 00 08 12" src="https://github.com/user-attachments/assets/3be34980-6813-4dfa-9e84-2942dea0e201" /> <img width="280" height="578" alt="Screenshot 2026-11-02 at 00 07 36" src="https://github.com/user-attachments/assets/71982d7c-a2e5-4f4d-befd-8e8f33d09f8e" />
 
 
-5) Do the same for the LCD, Hot glue the corners to the cloud with the big rectangle making sure the screen is aligned right.<img width="1237" height="891" alt="Screenshot 2026-11-02 at 00 16 10" src="https://github.com/user-attachments/assets/3cfe8a17-8256-40a5-93f7-8685da21eb12" /> <img width="560" height="1131" alt="Screenshot 2026-11-02 at 00 15 55" src="https://github.com/user-attachments/assets/0f3b664a-f8ee-4e22-a659-dd61e3a98508" /> <img width="1407" height="823" alt="Screenshot 2026-11-02 at 00 15 35" src="https://github.com/user-attachments/assets/8ade413e-bbb7-480f-9a63-7c6284d7cbb5" />
+6) Do the same for the LCD, Hot glue the corners to the cloud with the big rectangle making sure the screen is aligned right.<img width="1237" height="891" alt="Screenshot 2026-11-02 at 00 16 10" src="https://github.com/user-attachments/assets/3cfe8a17-8256-40a5-93f7-8685da21eb12" /> <img width="560" height="1131" alt="Screenshot 2026-11-02 at 00 15 55" src="https://github.com/user-attachments/assets/0f3b664a-f8ee-4e22-a659-dd61e3a98508" /> <img width="1407" height="823" alt="Screenshot 2026-11-02 at 00 15 35" src="https://github.com/user-attachments/assets/8ade413e-bbb7-480f-9a63-7c6284d7cbb5" />
 
 
-6) Stuff the wire in the remaining space, you could use electrical tape (recommended)
+7) Stuff the wire in the remaining space, you could use electrical tape (recommended)
 
    
-7) Hot glue the cloud pieces together <img width="754" height="1000" alt="Screenshot 2026-11-02 at 00 19 00" src="https://github.com/user-attachments/assets/79a8af84-d814-4beb-a742-09d302a9bbcd" />
+8) Hot glue the cloud pieces together <img width="754" height="1000" alt="Screenshot 2026-11-02 at 00 19 00" src="https://github.com/user-attachments/assets/79a8af84-d814-4beb-a742-09d302a9bbcd" />
 
 
-8) Finally Hot glue the Lightning Bolt and Cloud together aswell <img width="1542" height="2056" alt="IMG_6421 (1)" src="https://github.com/user-attachments/assets/68ed9fd2-7235-40cd-be64-3cfac0fbe296" />
+9) Finally Hot glue the Lightning Bolt and Cloud together aswell <img width="1542" height="2056" alt="IMG_6421 (1)" src="https://github.com/user-attachments/assets/68ed9fd2-7235-40cd-be64-3cfac0fbe296" />
 
   All Done!
 
