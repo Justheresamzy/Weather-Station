@@ -69,7 +69,7 @@ To Assemble the 3D parts and the electronics together:
 
 
 2) There are 2 clouds one with a small rectangle and one with a big rectangle: Place the LCD Screen in the Big rectangle and the ESP32 in the Small rectangle
-<img width="831" height="1002" alt="image" src="https://github.com/user-attachments/assets/87c484df-f919-43b2-b40e-2530023b7f97" /> <img width="608" height="926" alt="Screenshot 2026-11-02 at 00 01 31" src="https://github.com/user-attachments/assets/b0854751-e702-484f-8771-0fb7d8961afb" />
+ <img width="608" height="926" alt="Screenshot 2026-11-02 at 00 01 31" src="https://github.com/user-attachments/assets/b0854751-e702-484f-8771-0fb7d8961afb" />
 
 
 
