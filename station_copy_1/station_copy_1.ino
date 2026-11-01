@@ -8,7 +8,7 @@
 
 LiquidCrystal_I2C lcd(0X27 , 16, 2);
 
-const char* ssid = "Ramzan_EXT";
+const char* ssid = "MyWifi"; 
 const char* password = "12345678";
 
 
@@ -38,7 +38,7 @@ void loop() {
 
 
    HTTPClient http;  
-   http.begin("https://api.openweathermap.org/data/2.5/weather?lat=51.4&lon=-0.11&appid=664783fd2f95d8e71ffb59326f5621f6");
+   http.begin("https://api.openweathermap.org/data/2.5/weather?lat=51.50&lon=0.12&appid=MyWeatherAPIid"); // took out my api id and put default lat and lon
    int httpCode = http.GET();
    
     if (httpCode > 0) {
