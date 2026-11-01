@@ -9,7 +9,7 @@ I made this project to build my skills in Hardware, Fusion and Coding on a Lcd s
 
 ## Picture
 
-![Uploading Screenshot 2026-11-02 at 00.33.26.png…]()
+<img width="870" height="1097" alt="Screenshot 2026-11-02 at 00 48 04" src="https://github.com/user-attachments/assets/af2a0efd-b21f-4643-b26c-2bca51fe5be6" />
 
 
 
