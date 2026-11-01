@@ -27,7 +27,7 @@ You will need:
 - A USB C cable for the ESP32
 - Wifi to connect ESP32 
 
-### - Wiring
+### Wiring
 
 <img width="1061" height="927" alt="Screenshot 2026-11-01 at 23 55 00" src="https://github.com/user-attachments/assets/4f22c58f-acd8-49ee-91e0-2ea380d221d1" />
 
@@ -40,7 +40,7 @@ You will need:
 
 
 
-### - Code
+### Code
 
 To set the code up on the ESP32:
 
@@ -60,7 +60,7 @@ To set the code up on the ESP32:
 9) if you would like to change the unit of the temp (originally put in metric system), write imperial where metric is. <img width="98" height="22" alt="Screenshot 2026-11-01 at 23 42 05" src="https://github.com/user-attachments/assets/e42ec643-36e0-45a2-8c22-2555180c22d9" />
 10) Now upload the code 
 
-### - Putting it together
+### Putting it together
 
 To Assemble the 3D parts and the electronics together:
 
