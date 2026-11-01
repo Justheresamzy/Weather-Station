@@ -88,7 +88,7 @@ To Assemble the 3D parts and the electronics together:
 8) Hot glue the cloud pieces together <img width="754" height="1000" alt="Screenshot 2026-11-02 at 00 19 00" src="https://github.com/user-attachments/assets/79a8af84-d814-4beb-a742-09d302a9bbcd" />
 
 
-9) Finally Hot glue the Lightning Bolt and Cloud together aswell <img width="1542" height="2056" alt="IMG_6421 (1)" src="https://github.com/user-attachments/assets/68ed9fd2-7235-40cd-be64-3cfac0fbe296" />
+9) Finally Hot glue the Lightning Bolt and Cloud together aswell <img width="870" height="1097" alt="Screenshot 2026-11-02 at 00 48 04" src="https://github.com/user-attachments/assets/af2a0efd-b21f-4643-b26c-2bca51fe5be6" />
 
   All Done!
 
